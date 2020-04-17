@@ -1,0 +1,3 @@
+[submodule "httpserver.h"]
+	path = httpserver.h
+	url = git@github.com:jeremycw/httpserver.h.git
